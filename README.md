@@ -45,7 +45,7 @@ A DNS proxy server with a domains blacklist feature to filter unwanted host name
 
 4. Run the DNS proxy server with sudo:
     ```sh
-   sudo ./dns_proxy_server config.txt
+   sudo ./dns_proxy_server
     ```
 
 5. Test the DNS proxy server using `dig` on port 5000:
